@@ -1,0 +1,36 @@
+html {
+    height: 100%
+}
+
+body {
+  background: linear-gradient(to bottom, #F5CAC3, #BDE0FE);
+  background-repeat: no-repeat;
+  margin: 20px;
+  padding-top: 20px;
+}
+
+.navbar {
+float: none;
+text-align: center;
+display: inline-block;
+}
+
+.img {
+  display: inline-block;
+  position: relative;
+   margin: 0.5% 0.5% 0.5% 0.5%;
+}
+
+.row {
+  color: #FFFFFF;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    line-height: 100%;
+    text-align: center;
+      margin: 0.5% 0.5% 0.5% 0.5%;
+}
+
+#sm {
+    display: inline-block;
+    position: relative;
+}

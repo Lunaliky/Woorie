@@ -1,0 +1,56 @@
+html {
+    height: 140%;
+}
+
+body {
+  background: linear-gradient(to bottom, #F5CAC3, #BDE0FE);
+  background-repeat: no-repeat;
+     margin: 20px;
+     padding-top: 20px;
+        font-family: 'Fredoka One', cursive;
+        font-size: 20px;
+}
+
+h1 {
+  color: #FFFFFF;
+  text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+}
+
+.container {
+  background-color: #B4B9DC;
+      align-content: center;
+      align-items: center;
+      text-align: center;
+}
+
+.l1 {
+  color: #FFFFFF;
+  text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.l2 {
+  color: #FFFFFF;
+  text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+h2 {
+  color: #FFFFFF;
+  font-family: 'Fredoka One', cursive;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+.questionary {
+  font-family: 'Fredoka One', cursive;
+  font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}

@@ -1,0 +1,40 @@
+html {
+    height: 200%
+}
+
+body {
+  background: linear-gradient(to bottom, #F5CAC3, #BDE0FE);
+  background-repeat: no-repeat;
+     margin: 20px;
+     padding-top: 20px;
+        font-family: 'Fredoka One', cursive;
+        font-size: 20px;
+}
+
+h1 {
+  color: #FFFFFF;
+  text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.col {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.col-9 {
+  color: #FFFFFF;
+  text-align: left;
+    font-family: 'Fredoka One', cursive;
+    margin: 1% 1% 1% 1%;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 15px;
+}
